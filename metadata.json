@@ -1,0 +1,6 @@
+{
+  "name": "JKSSB JOURNEY",
+  "description": "Comprehensive competitive exam preparation platform for JKSSB aspirants, featuring topic-wise study notes, J&K GK chapter reader, syllabus library, exam calendar, and mock tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
